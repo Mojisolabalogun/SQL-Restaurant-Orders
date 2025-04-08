@@ -4,7 +4,9 @@ project objective:
  
  dataset used
 
+ - <a href='https://github.com/Mojisolabalogun/SQL-Restaurant-Orders/blob/main/menu_items.csv'>dataset</a>
  - <a href=''>dataset</a>
+
 
  ##questions
  1.  Which region in Nigeria has the lowest record of recovery from contamination?
@@ -13,6 +15,6 @@ project objective:
  4.  Which month had the highest record of  contamination?
  5.  What is the monthly and regional record of death? 
   
-  - Dashboard interaction <a href=>view query</a>
+  - Dashboard interaction <a href=''>view query</a>
   
  
