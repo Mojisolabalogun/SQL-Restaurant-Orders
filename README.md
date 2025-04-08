@@ -8,13 +8,20 @@ project objective:
  - <a href='https://github.com/Mojisolabalogun/SQL-Restaurant-Orders/blob/main/order_details.csv'>dataset</a>
 
 
- ##questions
- 1.  Which region in Nigeria has the lowest record of recovery from contamination?
- 2.  Which region in Nigeria has the highest number of contaminated cases?
- 3.  Which region in Nigeria has the highest number of contamination cases with unspecified gender?
- 4.  Which month had the highest record of  contamination?
- 5.  What is the monthly and regional record of death? 
+##Insight generated
+
+ 	What is the total number of orders?
+ 	What meun has the least ordered items? What categories were they in?
+ 	Which item has been ordered the most?
+	What is the total revenue generated from all orders?
+	Which order has the highest total price?
+	What is the name of the most expensive menu item?
+	Which category has the most menu items?
+	What is the average price of all menu items?
+	Which menu item has the lowest price?
+	How many menu items are there in each category?
+	Analyze orders profitability by category
   
-  - Dashboard interaction <a href=''>view query</a>
+ <a href='https://github.com/Mojisolabalogun/SQL-Restaurant-Orders/blob/main/Restaurant%20Orders.sql'>view query</a>
   
  
